@@ -10,13 +10,13 @@ The goal of this project is to detect and classify plant diseases from images us
 
 ## 📑 Table of Contents
 
-- [Project Description](#project-description)
-- [Requirements](#requirements)
-- [Dataset](#dataset)
-- [Code Explanation](#code-explanation)
-- [Usage](#usage)
-- [Results](#results)
-- [License](#license)
+- [Project Description](#-project-description)
+- [Requirements](#-requirements)
+- [Dataset](#-dataset)
+- [Code Explanation](#-code-explanation)
+- [Usage](#-usage)
+- [Results](#-results)
+- [License](#-license)
 
 ## 🚀 Project Description
 
@@ -95,16 +95,16 @@ print("Predicted Class Name:", predicted_class_name)
 
 Below are some examples of the results obtained from the model:
 
-- **Training and Validation Accuracy:**
+- **Training and Validation Accuracy:**  
   ![Training and Validation Accuracy](https://github.com/ManojKumarBVhi/Plant_Disease_Detection_and_Classifier/assets/135972453/b45f4827-1480-49d0-a62b-3d22431885ac)
   
-- **Training and Validation Loss:**
+- **Training and Validation Loss:**  
   ![Training and Validation Loss](https://github.com/ManojKumarBVhi/Plant_Disease_Detection_and_Classifier/assets/135972453/aae75681-6ef2-4b24-9826-be41b9a227e1)
   
-- **Sample Predictions:** 
+- **Sample Predictions:**  
   - ![Prediction 1](https://github.com/ManojKumarBVhi/Plant_Disease_Detection_and_Classifier/assets/135972453/2b9ecaeb-ed7b-4806-914f-b4828618f9ef)
-    ![Prediction 2](https://github.com/ManojKumarBVhi/Plant_Disease_Detection_and_Classifier/assets/135972453/5fe43585-d382-4e2d-96fc-cde6086f03f4)
-    ![Prediction 3](https://github.com/ManojKumarBVhi/Plant_Disease_Detection_and_Classifier/assets/135972453/be1236b3-6580-41ea-9622-ff2efcedcb61)
+  - ![Prediction 2](https://github.com/ManojKumarBVhi/Plant_Disease_Detection_and_Classifier/assets/135972453/5fe43585-d382-4e2d-96fc-cde6086f03f4)
+  - ![Prediction 3](https://github.com/ManojKumarBVhi/Plant_Disease_Detection_and_Classifier/assets/135972453/be1236b3-6580-41ea-9622-ff2efcedcb61)
 
 ## 📝 License
 
