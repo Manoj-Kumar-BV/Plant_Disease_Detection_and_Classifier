@@ -16,7 +16,6 @@ The goal of this project is to detect and classify plant diseases from images us
 - [Code Explanation](#-code-explanation)
 - [Usage](#-usage)
 - [Results](#-results)
-- [License](#-license)
 
 ## 🚀 Project Description
 
@@ -105,10 +104,5 @@ Below are some examples of the results obtained from the model:
   - ![Prediction 1](https://github.com/ManojKumarBVhi/Plant_Disease_Detection_and_Classifier/assets/135972453/2b9ecaeb-ed7b-4806-914f-b4828618f9ef)
   - ![Prediction 2](https://github.com/ManojKumarBVhi/Plant_Disease_Detection_and_Classifier/assets/135972453/5fe43585-d382-4e2d-96fc-cde6086f03f4)
   - ![Prediction 3](https://github.com/ManojKumarBVhi/Plant_Disease_Detection_and_Classifier/assets/135972453/be1236b3-6580-41ea-9622-ff2efcedcb61)
-
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 
 ---
