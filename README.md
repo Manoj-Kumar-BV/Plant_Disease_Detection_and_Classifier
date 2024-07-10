@@ -46,7 +46,7 @@ pip install numpy tensorflow pillow matplotlib
 
 ## 📂 Dataset
 
-The dataset used in this project can be accessed [here](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset).
+The dataset used in this project can be downloaded from [here](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset).
 
 The dataset should have the following directory structure:
 
