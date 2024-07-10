@@ -13,7 +13,7 @@ The goal of this project is to detect and classify plant diseases from images us
 - [Dataset](#dataset)
 - [Code Explanation](#code-explanation)
 - [Usage](#usage)
-- [Results](#results)
+- [Results](#Results)
 
 ## Project Description
 
