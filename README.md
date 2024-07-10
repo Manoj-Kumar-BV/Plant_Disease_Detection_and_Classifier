@@ -86,9 +86,6 @@ predicted_class_name = predict_image_class(model, image_path, class_indices)
 print("Predicted Class Name:", predicted_class_name)
 ```
 
-## Model Evaluation
-
-After training, the notebook evaluates the model on the test set and prints the accuracy. It also plots graphs showing the training and validation accuracy and loss over epochs.
 
 ##Results
 ![image](https://github.com/ManojKumarBVhi/Plant_Disease_Detection_and_Classifier/assets/135972453/b45f4827-1480-49d0-a62b-3d22431885ac)
