@@ -43,7 +43,7 @@ You can install these packages using pip:
 ```bash
 pip install numpy tensorflow pillow matplotlib
 ```
-##For the machine learning nodel 
+## For the machine learning nodel 
 Execute the el.ipynb file and can change the epoch value based on the reqiurements
 you can use jupyter notebook or visual studio for that code
 ## 📂 Dataset
