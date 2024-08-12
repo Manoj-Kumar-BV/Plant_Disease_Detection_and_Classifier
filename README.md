@@ -43,7 +43,8 @@ You can install these packages using pip:
 ```bash
 pip install numpy tensorflow pillow matplotlib
 ```
-
+##For the machine learning nodel execute the el.ipynb file and can change the epoch value based on the reqiurements
+you can use jupyter notebook or visual studio for that code
 ## 📂 Dataset
 
 The dataset used in this project can be downloaded from [here](https://www.kaggle.com/datasets/rashikrahmanpritom/plant-disease-recognition-dataset).
